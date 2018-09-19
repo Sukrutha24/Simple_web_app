@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-DevOps Connects Dev and Ops !
+DevOps! 
 			</h1>
 		
 			<div>
